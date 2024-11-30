@@ -4,8 +4,8 @@ We are Intelligent Graphics Lab at Hong Kong University of Science and Technolog
 
 
 <!-- <details> -->
-  <!-- <summary><strong>Members</strong> (click to expand):</summary> -->
-<strong>Members</strong>
+  <summary><strong>Members</strong> (click to expand):</summary>
+<!-- <strong>Members</strong> -->
     | Name                           | Role                                      |
     |--------------------------------|-------------------------------------------|
     | [Yuan Liu](https://liuyuan-pal.github.io/) | Assistant Professor          |
@@ -14,5 +14,4 @@ We are Intelligent Graphics Lab at Hong Kong University of Science and Technolog
     | [Zekai Gu](https://scholar.google.com/citations?user=Y8AU3RkAAAAJ&hl=en)|  RA Student |
 
  
-
 <!-- </details> -->
