@@ -1,4 +1,4 @@
-<h2 align="center"> <p> Intelligent Graphics Lab at HKUST </p></h2>
+<h2 align="center"> <p> IGL@HKUST </p></h2>
 
 We are Intelligent Graphics Lab at Hong Kong University of Science and Technology (IGL@HKUST). We focus on developing new technologies for 3D reconstruction, 3D generation, and 3D-aware video generation.
 
