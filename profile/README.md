@@ -8,6 +8,6 @@ We are Intelligent Graphics Lab at Hong Kong University of Science and Technolog
 | Name                           | Role                                      |
 |--------------------------------|-------------------------------------------|
 | [Yuan Liu](https://liuyuan-pal.github.io/) | Assistant Professor          |
-| [Jiahao Lu](https://scholar.google.com/citations?user=cRpteW4AAAAJ&hl=en)|  PhD Student |
+| [Jiahao Lu](https://github.com/jiah-cloud)|  PhD Student |
 | [Chengfeng Zhao](https://afterjourney00.github.io/)|  PhD Student |
 | [Zekai Gu](https://scholar.google.com/citations?user=Y8AU3RkAAAAJ&hl=en)|  RA Student |
