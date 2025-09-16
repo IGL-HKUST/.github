@@ -12,6 +12,8 @@ We are the Intelligent Graphics Lab at Hong Kong University of Science and Techn
 | [Chengfeng Zhao](https://afterjourney00.github.io/)|  PhD Student |
 | [Zekai Gu](https://scholar.google.com/citations?user=Y8AU3RkAAAAJ&hl=en)|  PhD Student |
 | [Chengwei Ren](https://github.com/ChernweiRen)|  PhD Student |
+| [Yingshuang Zou](https://heiheishuang.xyz/)| PhD Student |
+| [Cheng Wan](https://openreview.net/profile?id=%7ECheng_Wan1)| PhD Student |
 
 
  <summary><strong>Works</strong></summary>
