@@ -8,13 +8,14 @@ We are the Intelligent Graphics Lab at Hong Kong University of Science and Techn
 | Name                           | Role                                      |Misc. |
 |--------------------------------|-------------------------------------------|-------------------------------------------|
 | [Yuan Liu](https://liuyuan-pal.github.io/) | Assistant Professor           | |
-| [Jiahao Lu](https://github.com/jiah-cloud)|  PhD Student | 25 Fall |
-| [Chengfeng Zhao](https://afterjourney00.github.io/)|  PhD Student | 25 Fall|
-| [Zekai Gu](https://scholar.google.com/citations?user=Y8AU3RkAAAAJ&hl=en)|  PhD Student |25 Fall|
-| [Chengwei Ren](https://github.com/ChernweiRen)|  PhD Student | 25 Fall|
-| [Yingshuang Zou](https://heiheishuang.xyz/)| PhD Student | 26 Spring|
-| [Cheng Wan](https://openreview.net/profile?id=%7ECheng_Wan1)| PhD Student | 26 Fall|
-| [Peng Li](https://penghtyx.github.io/yuki-lipeng/) | PhD Student | 23 Fall, Co-supervised by Prof. Wenhan Luo and Prof. Yike Guo|
+| [Jiahao Lu](https://github.com/jiah-cloud)|  PhD Student | 25 Fall, Master@USTC, Bachelor@HUST  <br/> Co-supervised by Prof. Sai-Kit Yeung|
+| [Chengfeng Zhao](https://afterjourney00.github.io/)|  PhD Student | 25 Fall, Master@ShanghaiTech, Bachelor@ShanghaiTech|
+| [Zekai Gu](https://scholar.google.com/citations?user=Y8AU3RkAAAAJ&hl=en)|  PhD Student |25 Fall, Master@NUS, Bachelor@SCUT|
+| [Chengwei Ren](https://github.com/ChernweiRen)|  PhD Student | 25 Fall, Master@THU, Bachelor@HDU|
+| [Yingshuang Zou](https://heiheishuang.xyz/)| PhD Student | 26 Spring, Master@THUSZ, Bachelor@NWPU|
+| [Yongsen Mao](https://openreview.net/profile?id=%7ECheng_Wan1)| PhD Student | 26 Spring, Master@SFU, Bachelor@SFU|
+| [Cheng Wan](https://openreview.net/profile?id=%7ECheng_Wan1)| PhD Student | 26 Fall, Bachelor@RUC|
+| [Peng Li](https://penghtyx.github.io/yuki-lipeng/) | PhD Student | 23 Fall, Master@THU, Bachelor@XDU <br/> Co-supervised by Prof. Wenhan Luo and Prof. Yike Guo|
 
 
 ## <summary><strong>Works</strong></summary>
@@ -39,6 +40,8 @@ We are the Intelligent Graphics Lab at Hong Kong University of Science and Techn
 (CVPR'25) [PSHuman: Photorealistic Single-image 3D Human Reconstruction using Cross-Scale Multiview Diffusion and Explicit Remeshing](https://penghtyx.github.io/PSHuman/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/pengHTYX/PSHuman?style=social">
 
 (SIGGRAPH'25) [PDT: Point Distribution Transformation with Diffusion Models](https://shanemankiw.github.io/PDT/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/shanemankiw/PDT?style=social">
+
+(arXiv'25) [MeshMosaic: Scaling Artist Mesh Generation via Local-to-Global Assembly](https://xrvitd.github.io/MeshMosaic/index.html)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Xrvitd/MeshMosaic?style=social">
 
 ### Neural Rendering \& 3DGS
 
