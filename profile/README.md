@@ -13,7 +13,7 @@ We are the Intelligent Graphics Lab at Hong Kong University of Science and Techn
 | [Zekai Gu](https://scholar.google.com/citations?user=Y8AU3RkAAAAJ&hl=en)|  PhD Student |25 Fall, Master@NUS, Bachelor@SCUT|
 | [Chengwei Ren](https://github.com/ChernweiRen)|  PhD Student | 25 Fall, Master@THU, Bachelor@HDU|
 | [Yingshuang Zou](https://heiheishuang.xyz/)| PhD Student | 26 Spring, Master@THUSZ, Bachelor@NWPU|
-| [Yongsen Mao](https://openreview.net/profile?id=%7ECheng_Wan1)| PhD Student | 26 Spring, Master@SFU, Bachelor@SFU|
+| [Yongsen Mao](https://sammaoys.github.io/)| PhD Student | 26 Spring, Master@SFU, Bachelor@SFU|
 | [Cheng Wan](https://openreview.net/profile?id=%7ECheng_Wan1)| PhD Student | 26 Fall, Bachelor@RUC|
 | [Peng Li](https://penghtyx.github.io/yuki-lipeng/) | PhD Student | 23 Fall, Master@THU, Bachelor@XDU <br/> Co-supervised by Prof. Wenhan Luo and Prof. Yike Guo|
 
