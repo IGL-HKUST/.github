@@ -16,7 +16,7 @@ We are the Intelligent Graphics Lab at Hong Kong University of Science and Techn
 | [Yongsen Mao](https://sammaoys.github.io/)| PhD Student | 26 Spring, Master@SFU, Bachelor@SFU|
 | Jiayi Xu| MPhil Student | 26 Spring, Bachelor@HKUST|
 | [Cheng Wan](https://openreview.net/profile?id=%7ECheng_Wan1)| PhD Student | 26 Fall, Bachelor@RUC|
-| Weiyi Xue| PhD Student | 26 Fall, Master&Bachelor@TongjiUniversity|
+| [Weiyi Xue](https://weiyixue999.github.io/) | PhD Student | 26 Fall, Master&Bachelor@TongjiUniversity|
 | [Peng Li](https://penghtyx.github.io/yuki-lipeng/) | PhD Student | 23 Fall, Master@THU, Bachelor@XDU <br/> Co-supervised by Prof. Wenhan Luo and Prof. Yike Guo|
 
 
