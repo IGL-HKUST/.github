@@ -3,7 +3,7 @@
 We are the Intelligent Graphics Lab at Hong Kong University of Science and Technology (IGL-HKUST). We focus on developing new technologies for 3D reconstruction, 3D generation, and 3D-aware video generation.
 
 
-## <summary><strong>Members</strong></summary>
+## <summary><strong>Current Members</strong></summary>
 
 | Name                           | Role                                      |Misc. |
 |--------------------------------|-------------------------------------------|-------------------------------------------|
@@ -14,62 +14,90 @@ We are the Intelligent Graphics Lab at Hong Kong University of Science and Techn
 | [Chengwei Ren](https://github.com/ChernweiRen)|  PhD Student | 25 Fall, Master@THU, Bachelor@HDU|
 | [Yingshuang Zou](https://heiheishuang.xyz/)| PhD Student | 26 Spring, Master@THUSZ, Bachelor@NWPU|
 | [Yongsen Mao](https://sammaoys.github.io/)| PhD Student | 26 Spring, Master@SFU, Bachelor@SFU|
-| Jiayi Xu| MPhil Student | 26 Spring, Bachelor@HKUST|
+| Jiayi Xu| MPhil Student | 26 Spring, Bachelor@HKUST <br/> Co-supervised by Prof. Sai-Kit Yeung|
 | [Cheng Wan](https://openreview.net/profile?id=%7ECheng_Wan1)| PhD Student | 26 Fall, Bachelor@RUC|
 | [Weiyi Xue](https://weiyixue999.github.io/) | PhD Student | 26 Fall, Master&Bachelor@TongjiUniversity|
+| Jiazhi Shu | PhD Student | 26 Fall, Bachelor@SCUT|
+| Yiheng Zhang | PhD Student | 26 Fall, Master@NUS, Bachelor@NJUST|
 | [Peng Li](https://penghtyx.github.io/yuki-lipeng/) | PhD Student | 23 Fall, Master@THU, Bachelor@XDU <br/> Co-supervised by Prof. Wenhan Luo and Prof. Yike Guo|
+
+### Visiting students
+
+| Name                           | Time                                      |Current position                           |
+|--------------------------------|-------------------------------------------|-------------------------------------------|
+| Wenyue Chen                    | 2024 - Now                                | Master student, PKU-SZ                    |
+| Mengfei Li                     | 2024 - Now                                | PhD student, HKUST                        |
+| Rui Yan                        | 2025 - Now                                | Undergraduate student, ZJU                |
+| Mingzhi Sheng                  | 2025 - Now                                | MPhil student, HKUST(GZ)                  |
+| Yubo Zhao                      | 2025 - Now                                | MPhil student, HKUST                      |
+| Zhe Zhu                        | 2025 - Now                                | PhD student, NUAA                         |
+| Tianyu Liu                     | 2025 - Now                                | PhD student, HKUST                        |
+| Weitao Xiong                   | 2025 - Now                                | Undergraduate student, XMU                |
+| Yixiao Chen                    | 2025 - Now                                | PhD student, BUAA                         |
 
 
 ## <summary><strong>Works</strong></summary>
 
-### Feedforward Multiview 3D Reconstruction
-(CVPR'25 Highlight) [Align3R: Aligned Monocular Depth Estimation for Dynamic Videos ](https://igl-hkust.github.io/Align3R.github.io/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/jiah-cloud/Align3R?style=social">
+### Feedforward 3D Reconstruction
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/murphylmf/UniSH?style=social"> (arXiv'26) [UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](https://murphylmf.github.io/UniSH/)
 
-(NeurIPS'25) [TrackingWorld: World-centric Monocular 3D Tracking of Almost All Pixels](https://github.com/IGL-HKUST/TrackingWorld)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/IGL-HKUST/TrackingWorld?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Maddog241/mvinverse?style=social"> (arXiv'25) [MVInverse: Feed-forward Multi-view Inverse Rendering in Seconds](https://github.com/Maddog241/mvinverse)
 
-(arXiv'25) [MVInverse: Feed-forward Multi-view Inverse Rendering in Seconds](https://github.com/Maddog241/mvinverse)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Maddog241/mvinverse?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/IGL-HKUST/TrackingWorld?style=social"> (NeurIPS'25) [TrackingWorld: World-centric Monocular 3D Tracking of Almost All Pixels](https://github.com/IGL-HKUST/TrackingWorld)
+
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/jiah-cloud/Align3R?style=social"> (CVPR'25 Highlight) [Align3R: Aligned Monocular Depth Estimation for Dynamic Videos ](https://igl-hkust.github.io/Align3R.github.io/)
+
 
 ### 3D-aware Video Generation
-(SIGGRAPH'25) [Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control](https://igl-hkust.github.io/das/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/IGL-HKUST/DiffusionAsShader?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/IGL-HKUST/CoMoVi?style=social"> (arXiv'25) [CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos](https://igl-hkust.github.io/CoMoVi/)
+
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/IGL-HKUST/DiffusionAsShader?style=social"> (SIGGRAPH'25) [Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control](https://igl-hkust.github.io/das/)
+
+
 
 ### 3D Generation
-(ICLR'24) [SyncDreamer: Generating Multiview-consistent Images from a Single-view Image](https://github.com/liuyuan-pal/SyncDreamer)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/liuyuan-pal/SyncDreamer?style=social">
 
-(CVPR'24) [Wonder3D: Single Image to 3D using Cross-Domain Diffusion](https://www.xxlong.site/Wonder3D/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/xxlong0/Wonder3D?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Xrvitd/MeshMosaic?style=social"> (ICLR'26) [PartSAM: A Scalable Promptable Part Segmentation Model Trained on Native 3D Data](https://czvvd.github.io/PartSAMPage/)
 
-(ECCV'24) [Disentangled Clothed Avatar Generation from Text Descriptions](https://shanemankiw.github.io/SO-SMPL/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/shanemankiw/so-smpl?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Xrvitd/MeshMosaic?style=social"> (arXiv'25) [MeshMosaic: Scaling Artist Mesh Generation via Local-to-Global Assembly](https://xrvitd.github.io/MeshMosaic/index.html)
 
-(NeurIPS'24) [Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention](https://penghtyx.github.io/Era3D/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/pengHTYX/Era3D?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/IGL-HKUST/SyncHuman?style=social"> (NeurIPS'25) [Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction](https://github.com/IGL-HKUST/SyncHuman)
 
-(SIGGRAPH'24) [DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models](https://zzzyuqing.github.io/dreammat.github.io/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/zzzyuqing/DreamMat?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/shanemankiw/PDT?style=social"> (SIGGRAPH'25) [PDT: Point Distribution Transformation with Diffusion Models](https://shanemankiw.github.io/PDT/)
 
-(CVPR'25) [PSHuman: Photorealistic Single-image 3D Human Reconstruction using Cross-Scale Multiview Diffusion and Explicit Remeshing](https://penghtyx.github.io/PSHuman/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/pengHTYX/PSHuman?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/pengHTYX/PSHuman?style=social"> (CVPR'25) [PSHuman: Photorealistic Single-image 3D Human Reconstruction using Cross-Scale Multiview Diffusion and Explicit Remeshing](https://penghtyx.github.io/PSHuman/)
 
-(SIGGRAPH'25) [PDT: Point Distribution Transformation with Diffusion Models](https://shanemankiw.github.io/PDT/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/shanemankiw/PDT?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/zzzyuqing/DreamMat?style=social"> (SIGGRAPH'24) [DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models](https://zzzyuqing.github.io/dreammat.github.io/)
 
-(NeurIPS'25) [Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction](https://github.com/IGL-HKUST/SyncHuman)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/IGL-HKUST/SyncHuman?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/pengHTYX/Era3D?style=social"> (NeurIPS'24) [Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention](https://penghtyx.github.io/Era3D/)
 
-(arXiv'25) [MeshMosaic: Scaling Artist Mesh Generation via Local-to-Global Assembly](https://xrvitd.github.io/MeshMosaic/index.html)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Xrvitd/MeshMosaic?style=social">
+)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/shanemankiw/so-smpl?style=social"> (ECCV'24) [Disentangled Clothed Avatar Generation from Text Descriptions](https://shanemankiw.github.io/SO-SMPL/)
 
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/liuyuan-pal/SyncDreamer?style=social"> (ICLR'24) [SyncDreamer: Generating Multiview-consistent Images from a Single-view Image](https://github.com/liuyuan-pal/SyncDreamer)
 
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/xxlong0/Wonder3D?style=social"> (CVPR'24) [Wonder3D: Single Image to 3D using Cross-Domain Diffusion](https://www.xxlong.site/Wonder3D/)
 
 ### Neural Rendering \& 3DGS
 
-(NeurIPS'21 Spotlight) [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://lingjie0206.github.io/papers/NeuS/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Totoro97/NeuS?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/IGL-HKUST/MEGS-2?style=social">(ICLR'26) [MEGS2: Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning](https://megs-2.github.io/)
 
-(CVPR'22) [Neural Rays for Occlusion-aware Image-based Rendering](https://liuyuan-pal.github.io/NeuRay/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/liuyuan-pal/NeuRay?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/PKU-YuanGroup/NeuralGS?style=social"> (AAAI'26) [NeuralGS: Bridging Neural Fields and 3D Gaussian Splatting for Compact 3D Representations](https://pku-yuangroup.github.io/NeuralGS/)
 
-(CVPR'23) [F2NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Totoro97/f2-nerf?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/liuyuan-pal/NeRO?style=social"> (SIGGRAPH'23 ToG) [NeRO: Neural Geometry and BRDF Reconstruction of Reflective Objects from Multiview Images](https://liuyuan-pal.github.io/NeRO/)
 
-(SIGGRAPH'23 ToG) [NeRO: Neural Geometry and BRDF Reconstruction of Reflective Objects from Multiview Images](https://liuyuan-pal.github.io/NeRO/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/liuyuan-pal/NeRO?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Totoro97/f2-nerf?style=social"> (CVPR'23) [F2NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/)
 
-(AAAI'26) [NeuralGS: Bridging Neural Fields and 3D Gaussian Splatting for Compact 3D Representations](https://pku-yuangroup.github.io/NeuralGS/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/PKU-YuanGroup/NeuralGS?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/liuyuan-pal/NeuRay?style=social"> (CVPR'22) [Neural Rays for Occlusion-aware Image-based Rendering](https://liuyuan-pal.github.io/NeuRay/)
 
-(arXiv'25) [MEGS2: Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning](https://megs-2.github.io/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/IGL-HKUST/MEGS-2?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Totoro97/NeuS?style=social"> (NeurIPS'21 Spotlight) [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://lingjie0206.github.io/papers/NeuS/)
 
 ### 6DoF Object Pose
 
-(ECCV'22)[Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images](https://liuyuan-pal.github.io/Gen6D/)<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/liuyuan-pal/Gen6D?style=social">
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/liuyuan-pal/Gen6D?style=social"> (ECCV'22)[Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images](https://liuyuan-pal.github.io/Gen6D/)
 
+### 3D LLM Agent
 
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/WHU-USI3DV/SpatialLLM?style=social"> (JAG'26)[SpatialLLM：Enhancing Large Language Models for Urban Spatial Intelligence](https://github.com/WHU-USI3DV/SpatialLLM)
+
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/WHU-USI3DV/CityAnchor?style=social"> (ICLR'25)[CityAnchor: City-scale 3D Visual Grounding with Multi-modality LLMs](https://github.com/WHU-USI3DV/CityAnchor)
 
