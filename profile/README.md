@@ -17,8 +17,9 @@ We are the Intelligent Graphics Lab at Hong Kong University of Science and Techn
 | Jiayi Xu| MPhil Student | 26 Spring, Bachelor@HKUST <br/> Co-supervised by Prof. Sai-Kit Yeung|
 | [Cheng Wan](https://openreview.net/profile?id=%7ECheng_Wan1)| PhD Student | 26 Fall, Bachelor@RUC|
 | [Weiyi Xue](https://weiyixue999.github.io/) | PhD Student | 26 Fall, Master&Bachelor@TongjiUniversity|
+| [Haoran Xu](https://scholar.google.com/citations?user=rrGz1usAAAAJ&hl=zh-CN) | PhD Student | 26 Fall, Master@ZJU, Bachelor@SCU|
 | Jiazhi Shu | PhD Student | 26 Fall, Bachelor@SCUT|
-| Yiheng Zhang | PhD Student | 26 Fall, Master@NUS, Bachelor@NJUST|
+| [Yiheng Zhang](https://graphic-kiliani.github.io/homepage/) | PhD Student | 26 Fall, Master@NUS, Bachelor@NJUST|
 | [Peng Li](https://penghtyx.github.io/yuki-lipeng/) | PhD Student | 23 Fall, Master@THU, Bachelor@XDU <br/> Co-supervised by Prof. Wenhan Luo and Prof. Yike Guo|
 
 ### Visiting students
