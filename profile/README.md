@@ -59,7 +59,7 @@ We are the Intelligent Graphics Lab at Hong Kong University of Science and Techn
 
 ### 3D Generation
 
-<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Xrvitd/MeshMosaic?style=social"> (ICLR'26) [PartSAM: A Scalable Promptable Part Segmentation Model Trained on Native 3D Data](https://czvvd.github.io/PartSAMPage/)
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/czvvd/PartSAM?style=social"> (ICLR'26) [PartSAM: A Scalable Promptable Part Segmentation Model Trained on Native 3D Data](https://czvvd.github.io/PartSAMPage/)
 
 <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Xrvitd/MeshMosaic?style=social"> (arXiv'25) [MeshMosaic: Scaling Artist Mesh Generation via Local-to-Global Assembly](https://xrvitd.github.io/MeshMosaic/index.html)
 
