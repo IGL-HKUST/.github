@@ -41,9 +41,9 @@ We are the Intelligent Graphics Lab at Hong Kong University of Science and Techn
 ## <summary><strong>Works</strong></summary>
 
 ### Feedforward 3D Reconstruction
-<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/murphylmf/UniSH?style=social"> (arXiv'26) [UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](https://murphylmf.github.io/UniSH/)
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/murphylmf/UniSH?style=social"> (CVPR'26) [UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](https://murphylmf.github.io/UniSH/)
 
-<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Maddog241/mvinverse?style=social"> (arXiv'25) [MVInverse: Feed-forward Multi-view Inverse Rendering in Seconds](https://github.com/Maddog241/mvinverse)
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Maddog241/mvinverse?style=social"> (CVPR'26) [MVInverse: Feed-forward Multi-view Inverse Rendering in Seconds](https://github.com/Maddog241/mvinverse)
 
 <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/IGL-HKUST/TrackingWorld?style=social"> (NeurIPS'25) [TrackingWorld: World-centric Monocular 3D Tracking of Almost All Pixels](https://github.com/IGL-HKUST/TrackingWorld)
 
@@ -61,7 +61,7 @@ We are the Intelligent Graphics Lab at Hong Kong University of Science and Techn
 
 <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/czvvd/PartSAM?style=social"> (ICLR'26) [PartSAM: A Scalable Promptable Part Segmentation Model Trained on Native 3D Data](https://czvvd.github.io/PartSAMPage/)
 
-<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Xrvitd/MeshMosaic?style=social"> (arXiv'25) [MeshMosaic: Scaling Artist Mesh Generation via Local-to-Global Assembly](https://xrvitd.github.io/MeshMosaic/index.html)
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Xrvitd/MeshMosaic?style=social"> (CVPR'26) [MeshMosaic: Scaling Artist Mesh Generation via Local-to-Global Assembly](https://xrvitd.github.io/MeshMosaic/index.html)
 
 <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/IGL-HKUST/SyncHuman?style=social"> (NeurIPS'25) [Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction](https://github.com/IGL-HKUST/SyncHuman)
 
