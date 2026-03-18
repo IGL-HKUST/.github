@@ -41,6 +41,8 @@ We are the Intelligent Graphics Lab at Hong Kong University of Science and Techn
 ## <summary><strong>Works</strong></summary>
 
 ### Feedforward 3D Reconstruction
+<img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/TencentARC/Track4World?style=social"> (arXiv'26) [Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels](https://github.com/TencentARC/Track4World)
+
 <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/murphylmf/UniSH?style=social"> (CVPR'26) [UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](https://murphylmf.github.io/UniSH/)
 
 <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Maddog241/mvinverse?style=social"> (CVPR'26) [MVInverse: Feed-forward Multi-view Inverse Rendering in Seconds](https://github.com/Maddog241/mvinverse)
