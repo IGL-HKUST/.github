@@ -1,44 +1,8 @@
 <h2 align="center"> <p> IGL-HKUST </p></h2>
 
-We are the Intelligent Graphics Lab at Hong Kong University of Science and Technology (IGL-HKUST). We focus on developing new technologies for 3D reconstruction, 3D generation, and 3D-aware video generation.
+We are the Intelligent Graphics Lab at Hong Kong University of Science and Technology (IGL-HKUST). We focus on developing new technologies for **3D reconstruction/generation**, **motion capture/generation**, and **3D-aware video-based world models**. We focus on the applications of these technologies in video game making, robotics simulators, autonomous driving simulators, and large-scale mapping.
 
-
-## <summary><strong>Current Members</strong></summary>
-
-| Name                           | Role                                      |Misc. |
-|--------------------------------|-------------------------------------------|-------------------------------------------|
-| [Yuan Liu](https://liuyuan-pal.github.io/) | Assistant Professor           | |
-| [Jiahao Lu](https://github.com/jiah-cloud)|  PhD Student | 25 Fall, Master@USTC, Bachelor@HUST  <br/> Co-supervised by Prof. Sai-Kit Yeung|
-| [Chengfeng Zhao](https://afterjourney00.github.io/)|  PhD Student | 25 Fall, Master@ShanghaiTech, Bachelor@ShanghaiTech|
-| [Zekai Gu](https://scholar.google.com/citations?user=Y8AU3RkAAAAJ&hl=en)|  PhD Student |25 Fall, Master@NUS, Bachelor@SCUT|
-| [Chengwei Ren](https://github.com/ChernweiRen)|  PhD Student | 25 Fall, Master@THU, Bachelor@HDU|
-| [Yingshuang Zou](https://heiheishuang.xyz/)| PhD Student | 26 Spring, Master@THUSZ, Bachelor@NWPU|
-| [Yongsen Mao](https://sammaoys.github.io/)| PhD Student | 26 Spring, Master@SFU, Bachelor@SFU|
-| Jiayi Xu| MPhil Student | 26 Spring, Bachelor@HKUST <br/> Co-supervised by Prof. Sai-Kit Yeung|
-| [Cheng Wan](https://openreview.net/profile?id=%7ECheng_Wan1)| PhD Student | 26 Fall, Bachelor@RUC|
-| [Weiyi Xue](https://weiyixue999.github.io/) | PhD Student | 26 Fall, Master&Bachelor@TongjiUniversity|
-| [Haoran Xu](https://scholar.google.com/citations?user=rrGz1usAAAAJ&hl=zh-CN) | PhD Student | 26 Fall, Master@ZJU, Bachelor@SCU|
-| [Haoxuan Xu](https://haoxuanxu1024.github.io/) | PhD Student | 26 Fall, Master@HKUST GZ, Bachelor@SDU|
-| Jiazhi Shu | PhD Student | 26 Fall, Bachelor@SCUT|
-| [Yiheng Zhang](https://graphic-kiliani.github.io/homepage/) | PhD Student | 26 Fall, Master@NUS, Bachelor@NJUPT|
-| [Peng Li](https://penghtyx.github.io/yuki-lipeng/) | PhD Student | 23 Fall, Master@THU, Bachelor@XDU <br/> Co-supervised by Prof. Wenhan Luo and Prof. Yike Guo|
-
-### Visiting students
-
-| Name                           | Time                                      |Current position                           |
-|--------------------------------|-------------------------------------------|-------------------------------------------|
-| Wenyue Chen                    | 2024 - Now                                | Master student, PKU-SZ                    |
-| Mengfei Li                     | 2024 - Now                                | PhD student, HKUST                        |
-| Rui Yan                        | 2025 - Now                                | Undergraduate student, ZJU                |
-| Mingzhi Sheng                  | 2025 - Now                                | MPhil student, HKUST(GZ)                  |
-| Yubo Zhao                      | 2025 - Now                                | MPhil student, HKUST                      |
-| Zhe Zhu                        | 2025 - Now                                | PhD student, NUAA                         |
-| Tianyu Liu                     | 2025 - Now                                | PhD student, HKUST                        |
-| Weitao Xiong                   | 2025 - Now                                | Undergraduate student, XMU                |
-| Yixiao Chen                    | 2025 - Now                                | PhD student, BUAA                         |
-
-
-## <summary><strong>Works</strong></summary>
+## Works
 
 ### Feedforward 3D Reconstruction
 <img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/TencentARC/Track4World?style=social"> (arXiv'26) [Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels](https://github.com/TencentARC/Track4World)
